@@ -1,2 +1,3 @@
 # my_ol_demo
-Follow the examples/tutorials on openlayers official website.
+Put code snippets grabbed from openlayers official examples in one project. 
+Trying to build a web-gis demo using openlayers and geoserver.
